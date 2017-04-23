@@ -213,7 +213,7 @@ font-size: 15pt;text-shadow: 0 0 11px #CC0000, 0 0 11px #CC0000, 0 0 11px #CC000
 ?>
 <center><br>
 <audio controls="" autoplay="">
-  <source src="http://yt-files.com/yt-dd.php?id=isBLOfLoPT0&hash=00be5c40f8785e93c54da77d9a28c000&name=Sta%20Da%20Ishq%20Baranona%20Full%20Song" type="audio/mpeg">
+  <source src="" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio><br>
 <script>
